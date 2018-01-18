@@ -1,2 +1,2 @@
 # dotfiles
-configuration files
+OS X environment configuration files 
