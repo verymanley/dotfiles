@@ -30,3 +30,10 @@ defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 # Require password immediately after sleep or screen saver.
 defaults write com.apple.screensaver askForPassword -int 1
 defaults write com.apple.screensaver askForPasswordDelay -int 0
+
+###############################################################################
+# Dock, Dashboard                                                             #
+###############################################################################
+
+# Minimize windows into their application’s icon
+defaults write com.apple.dock minimize-to-application -bool true
