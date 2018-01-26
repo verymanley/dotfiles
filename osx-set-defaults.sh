@@ -20,6 +20,9 @@ defaults write com.apple.Finder FXPreferredViewStyle Nlsv
 # Disable the warning before emptying the Trash
 defaults write com.apple.finder WarnOnEmptyTrash -bool false
 
+# Finder: show all filename extensions
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+
 ###############################################################################
 # Screen                                                                      #
 ###############################################################################
