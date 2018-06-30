@@ -1,6 +1,7 @@
 # dotfiles
-OS X environment configuration files 
 
 ![Status - Stable](https://img.shields.io/badge/Status-Stable-blue.svg)
 
-## Created by Joshua Manley
+## OS X environment configuration files 
+
+### Created by Joshua Manley
